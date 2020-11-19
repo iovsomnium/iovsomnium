@@ -12,7 +12,7 @@
 
 <br />
 <br />
-![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
+[![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
 
 
 - 🔭 I’m currently working on ...
