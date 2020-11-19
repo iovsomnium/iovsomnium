@@ -3,6 +3,15 @@
 <!--
 **iovsomnium/iovsomnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 ![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
+<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+<a href="https://www.instagram.com/kind_of_lee/">
+  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
+<br />
+<br />
 
 - 🔭 I’m currently working on ...
 [![Django](https://img.shields.io/badge/-django-darkgreen?style=flat&logo=django&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
@@ -20,15 +29,7 @@
 [![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
 
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
-  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/kind_of_lee/">
-  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
 
-<br />
-<br />
 
   
 
