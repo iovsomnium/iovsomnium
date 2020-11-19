@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+#A Student, hoping to become a developer
+#개발자를 희망하는 학생
 <!--
 **iovsomnium/iovsomnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
 <a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
   <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
@@ -12,6 +12,8 @@
 
 <br />
 <br />
+![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
+
 
 - 🔭 I’m currently working on ...
 [![Django](https://img.shields.io/badge/-django-darkgreen?style=flat&logo=django&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
