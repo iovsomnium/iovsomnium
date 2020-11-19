@@ -21,12 +21,12 @@
 <br />
 <br />
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... <br />
 [![Django](https://img.shields.io/badge/-django-darkgreen?style=flat&logo=django&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning ... <br />
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![go](https://img.shields.io/badge/-golang-skyblue?style=flat&logo=go&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
