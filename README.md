@@ -23,8 +23,10 @@
 
 - 🔭 I’m currently working on ... <br />
 [![Django](https://img.shields.io/badge/-django-darkgreen?style=flat&logo=django&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
+[![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
+
 - 🌱 I’m currently learning ... <br />
+[![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![go](https://img.shields.io/badge/-golang-skyblue?style=flat&logo=go&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
