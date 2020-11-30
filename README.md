@@ -11,7 +11,7 @@
 
 
 
-<a href="https://www.linkedin.com/in/brijesh-dhanani-8a2061141">
+<a href="https://medium.com/iovsomnium">
   <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <a href="https://www.instagram.com/kind_of_lee/">
