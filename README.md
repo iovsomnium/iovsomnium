@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Anyone who wants to become a developer
-### 개발자를 희망하는 학생
+### 개발자를 희망하는 사람
 <!--
 **iovsomnium/iovsomnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
