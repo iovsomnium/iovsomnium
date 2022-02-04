@@ -24,7 +24,7 @@
 - 🔭 I’m currently working on ... <br />
 [![React](https://img.shields.io/badge/-React-black?style=flat&logo=react&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=javascript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
 
 - 🌱 I’m currently learning ... <br />
 [![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
