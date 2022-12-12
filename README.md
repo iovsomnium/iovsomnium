@@ -27,13 +27,10 @@
 [![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
 
 - 🌱 I’m currently learning ... <br />
-[![Python](https://img.shields.io/badge/-Python-111111?style=flat&logo=python&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
-[![Django](https://img.shields.io/badge/-django-darkgreen?style=flat&logo=django&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![go](https://img.shields.io/badge/-golang-skyblue?style=flat&logo=go&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat&logo=Node.js&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/iovsomnium)](https://github.com/iovsomnium)
-[![MongoDB](https://img.shields.io/badge/-MongoDB-FCA121?style=flat&logo=mongodb&link=https://github.com/iovsomnium)](https://github.com/iovsomnium) 
 
 
 
