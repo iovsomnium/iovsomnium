@@ -7,17 +7,6 @@
 ![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
 
 
-
-
-
-
-<a href="https://medium.com/iovsomnium">
-  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
-</a>
-<a href="https://www.instagram.com/kind_of_lee/">
-  <img align="left" alt="iovsomnium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-
 <br />
 <br />
 
