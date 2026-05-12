@@ -4,8 +4,6 @@
 <!--
 **iovsomnium/iovsomnium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-![iovsomnium's github stats](https://github-readme-stats.vercel.app/api?username=iovsomnium&show_icons=true)
-
 <br />
 
 - 🔭 I’m currently working on ... <br />
